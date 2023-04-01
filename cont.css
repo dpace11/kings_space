@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+} 
+body{
+background-image: url("img/xxx.jpg");
+background-size: 100%;
+background-repeat: none;
+color:black;
+ }
+.bit img{
+  padding-left: 450px;
+  padding-top: 10px;
+
+   border-style:groove;
+  border-left: transparent;
+  border-top: transparent;
+  border-bottom: transparent;
+}
+
+
+
+
+
+
+
